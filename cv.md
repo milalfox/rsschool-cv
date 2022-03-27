@@ -13,3 +13,10 @@ Hi! I am 34 years old and I am a chemistry teacher. I decided to change my occup
 * CSS (initial level)
 * JS basic (initial level)
 * Git&Github (initial level)
+
+## Education
+* March 2022 «JavaScript/Front-end» in RS School.
+* 2005-2010 Francisk Skaryna Gomel State University. Faculty of Biology.
+
+## Work experience
+At first I was a teacher of chemistry and biology (2010-2014). Then she worked as a laboratory assistant in chemical analysis (2015-2016). I am currently a chemistry tutor (from 2016 to the present). There is no work experience in the IT industry yet, but I plan to get it in the future.
